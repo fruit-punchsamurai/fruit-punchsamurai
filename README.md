@@ -3,11 +3,11 @@ I’m a passionate developer with a diverse skill set in **HTML, CSS, JavaScript
 
 ## 🚀 Skills
 - **Front-end:** HTML, CSS, JavaScript, React, Next.js  
-- **Back-end:** Python  
-- **Database:** PostgreSQL, MongoDB  
-- **Programming Languages:** C, C++  
+- **Back-end:** Node.js, Express.js (Beginner)  
+- **Database:** PostgreSQL, MongoDB (Beginner)
+- **Programming Languages:** C, C++ Python
 - **Version Control:** Git  
-- **Other Technologies:** RESTful APIs, JSON, AJAX, Responsive Design  
+- **Other Technologies:** RESTful APIs, JSON, AJAX, Responsive Design 
 
 ## 📫 Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/nimesh-pradhan-2420352a2/](https://www.linkedin.com/in/nimesh-pradhan-2420352a2/)  
