@@ -12,6 +12,7 @@ I’m a passionate developer with a diverse skill set in **HTML, CSS, JavaScript
 ## 📫 Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/nimesh-pradhan-2420352a2/](https://www.linkedin.com/in/nimesh-pradhan-2420352a2/)  
 - **Email:** nimeshgpradhan@gmail.com
+## Github Stats
 ![Nimesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fruit-punchsamurai&show_icons=true&count_private=true&hide_title=true)
 
 
