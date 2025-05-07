@@ -1,4 +1,4 @@
-Hi there! 👋 I'm **Nimesh Gopal Pradhan**  
+## Hi there! 👋 I'm **Nimesh Gopal Pradhan**  
 I’m a passionate developer with a diverse skill set in **HTML, CSS, JavaScript, React, Next.js, Python,** and **PostgreSQL**. I'm constantly exploring new technologies and aiming to create robust and scalable applications.
 
 ## 🚀 Skills
