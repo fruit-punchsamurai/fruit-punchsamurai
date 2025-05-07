@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Nimesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fruit-punchsamurai&show_icons=true&count_private=true&hide_title=true)
+GET https://api.github.com/users/fruit-punchsamurai/repos
+
